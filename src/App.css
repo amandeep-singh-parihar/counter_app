@@ -5,8 +5,7 @@
     font-family: 'Gilroy';
 }
 
-/* html,body{
-    height: 100%;
-    width: 100%;
-} */
-
+.background{
+    background-image: url("./Components/stars.jpg");
+    object-fit: cover;
+}
